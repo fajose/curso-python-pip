@@ -247,3 +247,8 @@ $RECYCLE.BIN/
 # Omit image files
 *.png
 *.jpg
+
+# Omit envs
+
+/app/app_env/*
+/game/game_env/*
