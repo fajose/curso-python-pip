@@ -252,3 +252,4 @@ $RECYCLE.BIN/
 
 /app/app_env/*
 /game/game_env/*
+/*/env/*
